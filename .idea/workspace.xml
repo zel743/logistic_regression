@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zel743"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zel743/logistic_regression.git",
+    "accountId": "a9ab2869-2b75-4abe-a700-24a57ad0b3a6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -86,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760475460037</updated>
       <workItem from="1760475461044" duration="5454000" />
-      <workItem from="1760481065255" duration="109000" />
+      <workItem from="1760481065255" duration="316000" />
     </task>
     <servers />
   </component>
